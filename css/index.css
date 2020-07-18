@@ -227,6 +227,46 @@ nav li {
     justify-content: center;
 }
 
+#bx1 {
+    background-color: teal;
+}
+
+#bx2 {
+    background-color: gold;
+}
+
+#bx3 {
+    background-color: cadetblue;
+}
+
+#bx4 {
+    background-color: coral;
+}
+
+#bx5 {
+    background-color: crimson;
+}
+
+#bx6 {
+    background-color: forestgreen;
+}
+
+#bx7 {
+    background-color: darkorchid;
+}
+
+#bx8 {
+    background-color: hotpink;
+}
+
+#bx9 {
+    background-color: indigo;
+}
+
+#bx10 {
+    background-color: dodgerblue;
+}
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
